@@ -1,4 +1,4 @@
-service: tsa-chp04ln05
+service: complex-orders-statemachine
 
 frameworkVersion: '3'
 
