@@ -1,4 +1,4 @@
-name: tsa-chp04ln05-order-flow
+name: complex-order-workflow
 id: ComplexExampleStateMachine
 definition:
   # expected input { orderId: string }
